@@ -1,6 +1,6 @@
 {
 	"name": "quickplate",
-	"version": "1.0.10",
+	"version": "1.0.11",
 	"license": "MIT",
 	"bin": "dist/cli.js",
 	"type": "module",

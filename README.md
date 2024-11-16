@@ -9,7 +9,7 @@ Choose and install your favorite boilerplate in a flash! ⚡️✨
 
 Quickplate is a sleek command-line interface tool built with React Ink that makes setting up new projects lightning fast. Say goodbye to tedious setup processes and hello to instant productivity!
 
-![](./assets/quickplate-demo.gif)
+![](./assets/quickplate_new_demo.gif)
 
 ## ✨ Features
 
