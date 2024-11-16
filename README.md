@@ -74,7 +74,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
 
-## 💖 Show your support
+## ⚡️ Show your support
 
 Give a ⭐️ if this project helped you!
 
