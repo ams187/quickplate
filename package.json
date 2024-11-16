@@ -1,6 +1,6 @@
 {
 	"name": "quickplate",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"license": "MIT",
 	"bin": "dist/cli.js",
 	"type": "module",
@@ -15,6 +15,15 @@
 	"files": [
 		"dist"
 	],
+	"author": "ams187",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ams187/quickplate.git"
+  },
+	"bugs": {
+    "url": "https://github.com/ams187/quickplate/issues"
+  },
 	"dependencies": {
 		"@inkjs/ui": "^2.0.0",
 		"ink": "^5.0.1",
