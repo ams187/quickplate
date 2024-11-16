@@ -1,11 +1,12 @@
-# 🚀 Quickplate
-<!--
-[![npm version](https://img.shields.io/npm/v/quickplate.svg)](https://www.npmjs.com/package/quickplate)
+<div align="flex-start">
+  <h1>🚀 Quickplate</h1>
+  <p>Choose and install your favorite boilerplate in a flash! ⚡️✨</p>
+
+  [![npm version](https://img.shields.io/npm/v/quickplate.svg)](https://www.npmjs.com/package/quickplate)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
--->
 
-> Choose and install your favorite boilerplate in a flash! ⚡️✨
+</div>
 
 Quickplate is a sleek command-line interface tool built with React Ink that makes setting up new projects lightning fast. Say goodbye to tedious setup processes and hello to instant productivity!
 
@@ -84,3 +85,4 @@ Project Link: [https://github.com/ams187/quickplate](https://github.com/ams187/q
 ---
 
 Built with ☕ and code by myself
+
