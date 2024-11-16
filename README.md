@@ -1,8 +1,9 @@
 # 🚀 Quickplate
-
+<!--
 [![npm version](https://img.shields.io/npm/v/quickplate.svg)](https://www.npmjs.com/package/quickplate)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+-->
 
 > Choose and install your favorite boilerplate in a flash! ⚡️✨
 
