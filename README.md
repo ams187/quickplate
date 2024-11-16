@@ -8,7 +8,7 @@
 
 Quickplate is a sleek command-line interface tool built with React Ink that makes setting up new projects lightning fast. Say goodbye to tedious setup processes and hello to instant productivity!
 
-[![asciicast](https://asciinema.org/a/oj5ulHmj1cb0VC8YFNEEfCjqo.svg)](https://asciinema.org/a/oj5ulHmj1cb0VC8YFNEEfCjqo)
+![](./assets/quickplate_demo.gif)
 
 ## ✨ Features
 
