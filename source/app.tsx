@@ -11,7 +11,6 @@ export default function App() {
 
 	const [frameworksVisible, setFrameworksVisible] = useState<boolean>(true);
 	const [frameworkIndexSelected, setFrameworkIndexSelected] = useState<number | null>(null);
-	const [boilerplateIndexSelected, setBoilerplateIndexSelected] = useState<number | null>(null);
 
 type GradientName = "cristal" | "teen" | "mind" | "morning" | "vice" | "passion" | "fruit" | "instagram" | "atlas" | "retro" | "summer" | "pastel" | "rainbow";
 
@@ -123,7 +122,6 @@ const [colorGradient] = useState<string>(getRandomColor());
 			setFrameworkIndexSelected(null);
 			}
 			else{
-			setBoilerplateIndexSelected(selectedIndex);
 
 
 
@@ -152,7 +150,6 @@ const [colorGradient] = useState<string>(getRandomColor());
 
 
 		setFrameworkIndexSelected(null);
-		setBoilerplateIndexSelected(null);
 		setFrameworksVisible(false);
 
 			}
