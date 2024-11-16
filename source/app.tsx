@@ -155,7 +155,6 @@ const [colorGradient] = useState<string>(getRandomColor());
 		setBoilerplateIndexSelected(null);
 		setFrameworksVisible(false);
 
-			console.log(boilerplateIndexSelected);
 			}
     }}
   />
